@@ -29,7 +29,7 @@ Specifies the distinguished name of the organizational unit.
 **Recurse**:
 Indicates that the ACL will be applied to the specified OU and all child objects underneath that OU.
 
-# 1.2. Examples
+## 1.2. Examples
 
 This command will remove the User "S-1-5-32-548","S-1-5-32-550" from the ACL of all objects found in "OU=TTier0,DC=test-teal,DC=internal,DC=test"
 
